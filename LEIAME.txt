@@ -1,0 +1,42 @@
+COMO USAR ESTA PASTA
+=====================
+
+Esta pasta sempre tem a versão MAIS RECENTE dos arquivos que precisam estar
+no repositório GitHub (hub-incentivo-dashboard) para o dashboard funcionar
+online, com todos os links de materiais ativos.
+
+Sempre que for atualizar o site no GitHub, suba TODOS os arquivos desta
+pasta (Add file > Upload files > arraste todos de uma vez > Commit changes).
+Isso substitui os antigos e garante que não sobra nenhuma versão velha.
+
+O que tem aqui hoje (11/08/2026):
+- index.html                          -> o dashboard em si (não mexer no nome)
+- Guia_Mentoria_HUB_2026.pdf           -> linkado no card "Mentoria com Alumni"
+- Guia_do_Mentor_Trajetoria_2026.pdf   -> linkado no card "Programa Trajetória"
+- Guia_do_Mentorado_Trajetoria_2026.pdf -> linkado no card "Programa Trajetória"
+- Dossie_01...Dossie_16 (.pdf, na raiz e dentro de Dossies_Mentoria_14/PDF/)
+                                       -> dossiês dos mentores, linkados no nome
+                                          do mentor na aba "Alunos e Presença"
+                                          (programa Mentoria com Alumni)
+
+IMPORTANTE sobre a subpasta "Dossies_Mentoria_14":
+O GitHub aceita arrastar a pasta inteira (não só os arquivos de dentro) e ele
+mantém a estrutura de subpastas automaticamente. Então, ao fazer o upload,
+arraste tanto os arquivos da raiz desta pasta quanto a pasta
+"Dossies_Mentoria_14" inteira, tudo de uma vez, para a área de "Add file >
+Upload files" do GitHub. Se a subpasta não for enviada com esse nome exato,
+os links dos dossiês de 04 a 14 vão quebrar.
+
+Links que JÁ funcionam sem precisar subir nada (são endereços completos,
+não arquivos locais): perfis do LinkedIn dos mentores e os documentos de
+grupo da Oficina de Projetos (Google Docs). Se algum desses parar de
+funcionar, o problema provavelmente é permissão de acesso ao documento,
+não hospedagem.
+
+Sempre que a Claude atualizar o dashboard ou adicionar/trocar um material
+linkado no Cronograma, o arquivo correspondente é atualizado (ou adicionado)
+aqui nesta mesma pasta, com o mesmo nome de arquivo — assim os links dentro
+do dashboard continuam funcionando sem precisar editar nada.
+
+Não precisa apagar nada manualmente: se um arquivo antigo sair de uso, a
+Claude avisa aqui no chat antes de você remover algo do GitHub.
